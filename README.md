@@ -116,4 +116,4 @@ Last option will allow to easily open the device again to access the FEL mode bu
 
 # Special Acknowledgments
 - The [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first newbee friendly guide to use it.
-- The [Batocera Team](https://batocera.org) and Demeris in particular for taking over the port of Batocera for the CHA and answer my many questions.
+- The [Batocera Team](https://batocera.org) and Demetris in particular for taking over the port of Batocera for the CHA and answer my many questions.
