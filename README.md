@@ -85,7 +85,7 @@ Requirements:
 
 Steps:
 1. Remove the Micro-USB power adapter. In FEL mode the board will be powered from the external USB.
-2. Press the FEL mode button and hold it.
+2. Press the FEL mode button and hold it. Is easily reachable getting the finger under the board. It clicks when pressed, surprisingly requires a bit more pressure than expected to get pressed.
 3. Connect the USB Type A to the PC. After the device has been detected (Windows plays a sound), the FEL button can be released.
 4. Download [this](software/CHA_FEL_MODE.zip) software, uncompress and use 'start.bat' (Windows) or 'start.sh' (Linux) to enable access to the board's storage.
 
