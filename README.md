@@ -13,7 +13,9 @@ These reasons made the device a favourite one to customise and build a self-cont
 # Software
 The OEM operating system shows a simple but friendly user interface.
 
-The device comes with 16 games available from the interface.
+The device comes with 16 games pre-installed available from the user interface.
+
+At the time of this writting there is no official means to purchase additional games.
 
 # Hardware
 ![PCB Front](images/pcb-front-annotated-thumb.png)
@@ -56,6 +58,8 @@ This board can be easily found at Amazon in two variants under the names:
 It replaces the OEM controller board and adds compatibility with other consoles and PC over bluetooth.
 
 # Installing Software
+
+The next method can be used not only to install alternative software to the oem but also to recover the system in case any problem happens.
 
 ## Opening the device
 To reach the SOC is necessary to open the device, thankfully this is quite straightforward.
@@ -111,9 +115,14 @@ Last option will allow to easily open the device again to access the FEL mode bu
 # High Resolution Images
 - Find high resolution images of the device and PCB [here](images-hd).
 
+# Troubleshooting
+- If for any reason the device doesn't work properly try to reinstall an OS using FEL mode.
+
 # Compatible Software
-- Batocera can be found [here](https://batocera.org) and offers official support for the CHA, giving a user friendly experience.
+- [OEM operating system 1.6](software/capcom-home-arcade-oem-16.img.gz)
+- [Batocera](https://batocera.org) open source retro distribution, officialy supports the CHA.
 
 # Special Acknowledgments
-- The [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first newbee friendly guide to use it.
-- The [Batocera Team](https://batocera.org) and Demetris in particular for taking over the port of Batocera for the CHA and answer my many questions.
+- [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first newbee friendly guide to use it.
+- [Batocera Team](https://batocera.org). Demetris in particular for taking over the port of Batocera for the CHA and answer many questions.
+- [Koch Media](https://capcomhomearcade.com). For creating a good licensed product and supporting its community on [Reddit/CapcomHomeArcade](https://www.reddit.com/r/CapcomHomeArcade/). 
