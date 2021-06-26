@@ -119,7 +119,7 @@ Last option will allow to easily open the device again to access the FEL mode bu
 - If for any reason the device doesn't work properly try to reinstall an OS using FEL mode.
 
 # Compatible Software
-- [OEM operating system 1.6](software/capcom-home-arcade-oem-16.img.gz)
+- [OEM operating system 1.6](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
 - [Batocera](https://batocera.org) open source retro distribution, officialy supports the CHA.
 
 # Special Acknowledgments
