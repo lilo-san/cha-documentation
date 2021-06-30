@@ -19,7 +19,7 @@ The Capcom Home Arcade (CHA from now on) is a device manufactured by Koch Media 
 
 A lot of effort was put on the device design. Is build using only high quality Sanwa parts and the surface mount don't have any visible screws.
 
-Additionally, at the time of this writting at least, hardware specs are superior than direct competitors.
+Additionally, at the time of this writing at least, hardware specs are superior than direct competitors.
 
 These reasons made the device a favourite one to customise and build a self-contained small home arcade setup.
 
@@ -28,7 +28,7 @@ The OEM operating system shows a simple but friendly user interface.
 
 The device comes with 16 games pre-installed available from the user interface.
 
-At the time of this writting there is no official means to purchase additional games.
+At the time of this writing there is no official means to purchase additional games.
 
 # Hardware
 ![PCB Front](images/pcb-front-annotated-thumb.png)
@@ -139,13 +139,13 @@ Last option will allow to easily open the device again to access the FEL mode bu
 ## High Resolution Images
 - Find high resolution images of the device and PCB [here](images-hd).
 
-## Officialy Compatible Software
+## Officially Compatible Software
 The next software can be downloaded and directly written to EMMC.
 
 - [OEM operating system 1.6](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
 - [Batocera](https://batocera.org) open source retro distribution, current development build for the CHA can be found [here](https://www.androidfilehost.com/?fid=14943124697586355886).
 
 # Special Acknowledgments
-- [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first newbee friendly guide to use it.
+- [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first beginner friendly guide to use it.
 - [Batocera Team](https://batocera.org). Demetris in particular for taking over the port of Batocera for the CHA and answer many questions.
 - [Koch Media](https://capcomhomearcade.com). For creating a good licensed product and supporting its Reddit community.
