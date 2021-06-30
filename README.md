@@ -1,6 +1,10 @@
 # Unofficial Capcom Home Arcade Manual
 ![Capcom Home Arcade](images/case-front-thumb.png)
 
+# Table of Contents
+1. [Introduction](#Introduction)
+2. [Software](#Software)
+
 # Introduction
 The Capcom Home Arcade (CHA from now on) is a device manufactured by Koch Media under license from Capcom.
 
