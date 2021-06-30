@@ -6,6 +6,13 @@
 2. [Software](#Software)
 3. [Hardware](#Hardware)
 4. [Hardware Modifications](#Hardware-Modifications)
+5. [Purchasable Modifications](#Purchasable-Modifications)
+6. [Installing Software](#Installing-Software)
+7. [Communities](#Communities)
+8. [Community Guides](#Community-Guides)
+9. [Troubleshooting](#Troubleshooting)
+10. [Downloads](#Downloads)
+11. [Special Acknowledgments](#Special-Acknowledgments)
 
 # Introduction
 The Capcom Home Arcade (CHA from now on) is a device manufactured by Koch Media under license from Capcom.
@@ -122,7 +129,7 @@ Last option will allow to easily open the device again to access the FEL mode bu
 - [Reddit](https://www.reddit.com/r/CapcomHomeArcade/)
 - [Discord](https://discord.gg/usVgBEZ7)
 
-# Community Tutorials
+# Community Guides
 - [Top Plate Teardown](https://www.reddit.com/r/CapcomHomeArcade/comments/nsb9xy/cha_top_plate_teardown_video/)
 
 # Troubleshooting
