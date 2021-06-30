@@ -112,17 +112,27 @@ Put the rubber pads first and only the four visible screws.
 
 Last option will allow to easily open the device again to access the FEL mode button at a latter point.
 
-# High Resolution Images
-- Find high resolution images of the device and PCB [here](images-hd).
+# Communities
+- [Reddit](https://www.reddit.com/r/CapcomHomeArcade/)
+- [Discord](https://discord.gg/usVgBEZ7)
+
+# Community Tutorials
+- [Top Plate Teardown](https://www.reddit.com/r/CapcomHomeArcade/comments/nsb9xy/cha_top_plate_teardown_video/)
 
 # Troubleshooting
 - If for any reason the device doesn't work properly try to reinstall an OS using FEL mode.
 
-# Compatible Software
+# Downloads
+## High Resolution Images
+- Find high resolution images of the device and PCB [here](images-hd).
+
+## Officialy Compatible Software
+The next software can be downloaded and directly written to EMMC.
+
 - [OEM operating system 1.6](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
-- [Batocera](https://batocera.org) open source retro distribution, officialy supports the CHA.
+- [Batocera](https://batocera.org) open source retro distribution, current development build for the CHA can be found [here](https://www.androidfilehost.com/?fid=14943124697586355886).
 
 # Special Acknowledgments
 - [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first newbee friendly guide to use it.
 - [Batocera Team](https://batocera.org). Demetris in particular for taking over the port of Batocera for the CHA and answer many questions.
-- [Koch Media](https://capcomhomearcade.com). For creating a good licensed product and supporting its community on [Reddit/CapcomHomeArcade](https://www.reddit.com/r/CapcomHomeArcade/). 
+- [Koch Media](https://capcomhomearcade.com). For creating a good licensed product and supporting its Reddit community.
