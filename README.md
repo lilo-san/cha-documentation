@@ -142,8 +142,20 @@ Last option will allow to easily open the device again to access the FEL mode bu
 ## Officially Compatible Software
 The next software can be downloaded and directly written to EMMC.
 
-- [OEM operating system 1.6](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
-- [Batocera](https://batocera.org) open source retro distribution, current development build for the CHA can be found [here](https://www.androidfilehost.com/?fid=14943124697586355886).
+### OEM operating system
+The OS that comes pre-installed on the Capcom Home Arcade.
+
+- 1.4 [Download From CHA](https://cha.tbbrds.com/img/cha-1.4.img)
+- 1.5 [Download From CHA](https://cha.tbbrds.com/img/cha-1.5.img)
+- 1.6 [Download From CHA](https://cha.tbbrds.com/img/cha-1.6.img) or [Download From Archive](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
+
+Alternative Kernel version, "may" fix some sound issues.
+- 1.6 (Alternative Kernel) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
+
+### Batocera
+[Batocera](https://batocera.org) is an open source retro distribution
+
+- Development version 32-20210625 [Download From AndroidFileHost](https://www.androidfilehost.com/?fid=14943124697586355886)
 
 # Special Acknowledgments
 - [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first beginner friendly guide to use it.
