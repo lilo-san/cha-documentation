@@ -3,7 +3,7 @@
 
 # Table of Contents
 1. [Introduction](#Introduction)
-2. [Software](#Software)
+2. [OEM Software](#OEM-Software)
 3. [Hardware](#Hardware)
 4. [Hardware Modifications](#Hardware-Modifications)
 5. [Purchasable Modifications](#Purchasable-Modifications)
@@ -23,7 +23,7 @@ Additionally, at the time of this writing at least, hardware specs are superior 
 
 These reasons made the device a favourite one to customise and build a self-contained small home arcade setup.
 
-# Software
+# OEM Software
 The OEM operating system shows a simple but friendly user interface.
 
 The device comes with 16 games pre-installed available from the user interface.
@@ -33,10 +33,10 @@ At the time of this writing there is no official means to purchase additional ga
 # Hardware
 ![PCB Front](images/pcb-front-annotated-thumb.png)
 
-Custom SOC based on Orange PI PC:
+Custom SOC based on Orange PI PC ([Allwinner H3 SOC](https://linux-sunxi.org/H3)):
 - Fixed Voltage Regulator: A8030
-- CPU : Allwinner H3 (1.08Ghz at 1.2v)
-- GPU : Mali 400 (576Mhz)
+- CPU : Quad-Core Cortex-A7 ARM CPU (1.08Ghz at 1.2v)
+- GPU : Mali400 MP2 (576Mhz)
 - DDR3 : 512MB 1248 (624MHz)
 - Storage: 4GB EMMC
 - WIFI Controller: Realtek RTL8188ETV supporting 802.11bgn 2.4G
@@ -140,7 +140,7 @@ Last option will allow to easily open the device again to access the FEL mode bu
 - Find high resolution images of the device and PCB [here](images-hd).
 
 ## Officially Compatible Software
-The next software can be downloaded and directly written to EMMC.
+The next software can be downloaded and directly written to EMMC, is also supported for the CHA by their developers.
 
 ### OEM operating system
 The OS that comes pre-installed on the Capcom Home Arcade.
