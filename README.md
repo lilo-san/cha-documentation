@@ -131,6 +131,7 @@ Last option will allow to easily open the device again to access the FEL mode bu
 
 # Community Guides
 - [Top Plate Teardown](https://www.reddit.com/r/CapcomHomeArcade/comments/nsb9xy/cha_top_plate_teardown_video/)
+- [Capcom Home Arcade Batocera Setup](https://github.com/lilo-san/cha-batocera)
 
 # Troubleshooting
 - If for any reason the device doesn't work properly try to reinstall an OS using FEL mode.
