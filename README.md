@@ -47,7 +47,7 @@ Most obvious differences from a typical Orange PI PC:
 - Has a 4GB EMMC of fast storage.
 - Doesn't have the 9 Pin Micro SD Card Slot. (has a PCB slot to solder one, proven to work)
 - Doesn't have two RAM chips, only one (has a PCB slot to solder a second one, untested).
-- 3+2 USB ports: 1 Type A, 2 4-Pin connectors used internally. (has 2 PCB slots that could be soldered, untested).
+- 3 USB ports: 1 Type A, 2 4-Pin connectors used internally. The additional 2 PCB slots where USB inputs could be soldered are electrically connected to the 2 4-Pin connectors. In practice only one of the two that are electrically connected can be used without issues.
 
 # Hardware Modifications
 As indicated above the PCB has some usable slots where parts could be soldered.
