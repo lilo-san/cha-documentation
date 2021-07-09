@@ -127,7 +127,7 @@ Last option will allow to easily open the device again to access the FEL mode bu
 
 # Communities
 - [Reddit](https://www.reddit.com/r/CapcomHomeArcade/)
-- [Discord](https://discord.gg/usVgBEZ7)
+- [Discord](https://discord.gg/4jsNqRZUzS)
 
 # Community Guides
 - [Top Plate Teardown](https://www.reddit.com/r/CapcomHomeArcade/comments/nsb9xy/cha_top_plate_teardown_video/)
