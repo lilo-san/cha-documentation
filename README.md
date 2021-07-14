@@ -154,9 +154,17 @@ Alternative Kernel version, "may" fix some sound issues.
 - 1.6 (Alternative Kernel) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
 
 ### Batocera
-[Batocera](https://batocera.org) is an open source retro distribution
+[Batocera](https://batocera.org) is an open source retro distribution.
 
 - Development version 32-20210625 [Download From AndroidFileHost](https://www.androidfilehost.com/?fid=14943124697586355886)
+
+## Other Software
+The next software can be downloaded and directly written to EMMC.
+
+### Lakka
+[Lakka](http://www.lakka.tv) is an open source retro distribution. OS images for the CHA are supported by  [CHOKO Group](https://github.com/ChokoGroup).
+
+- Dual Boot image including OEM OS 1.6 and Lakka v3.2 [Download From CHOKO Group GitHub](https://github.com/ChokoGroup/CHA-Lakka-Dual-Boot/releases/download/v4.3.1/CHA.v1.6.with.Choko.Hack.v12.and.Lakka.v3.2.img.7z)
 
 # Special Acknowledgments
 - [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first beginner friendly guide to use it.
