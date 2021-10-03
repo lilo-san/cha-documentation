@@ -156,7 +156,7 @@ Alternative Kernel version, "may" fix some sound issues.
 ### Batocera
 [Batocera](https://batocera.org) is an open source retro distribution.
 
-- Development version 32-20210625 [Download From AndroidFileHost](https://www.androidfilehost.com/?fid=14943124697586355886)
+- 32 [Download From batocera.org](https://updates.batocera.org/cha/stable/last/batocera-cha-32-20210924.img.gz)
 
 ## Other Software
 The next software can be downloaded and directly written to EMMC.
