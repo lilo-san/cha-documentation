@@ -157,7 +157,7 @@ Alternative Kernel version, "may" fix some sound issues.
 
 - v32 [Download From batocera.org](https://updates.batocera.org/cha/stable/last/batocera-cha-32-20210924.img.gz)
 
-## Official Lakka Distribution
+### Official Lakka Distribution
 [Lakka](http://www.lakka.tv) is the official open source retro distribution from libretro for Retroarch.
 
 - v3.5 [Download From lakka.tv](https://le-builds.lakka.tv/H3.arm/Lakka-H3.arm-3.5-capcom-home-arcade.img.gz)
