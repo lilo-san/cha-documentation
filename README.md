@@ -131,7 +131,6 @@ Last option will allow to easily open the device again to access the FEL mode bu
 
 # Community Guides
 - [Top Plate Teardown](https://www.reddit.com/r/CapcomHomeArcade/comments/nsb9xy/cha_top_plate_teardown_video/)
-- [Capcom Home Arcade Batocera Setup](https://github.com/lilo-san/cha-batocera)
 
 # Troubleshooting
 - If for any reason the device doesn't work properly try to reinstall an OS using FEL mode.
@@ -140,31 +139,34 @@ Last option will allow to easily open the device again to access the FEL mode bu
 ## High Resolution Images
 - Find high resolution images of the device and PCB [here](images-hd).
 
-## Officially Compatible Software
-The next software can be downloaded and directly written to EMMC, is also supported for the CHA by their developers.
+## Officially Supported Software
+The next software can be downloaded and directly written to EMMC, is also supported for the CHA by their original developers.
 
 ### OEM operating system
 The OS that comes pre-installed on the Capcom Home Arcade.
 
-- 1.4 [Download From CHA](https://cha.tbbrds.com/img/cha-1.4.img)
-- 1.5 [Download From CHA](https://cha.tbbrds.com/img/cha-1.5.img)
-- 1.6 [Download From CHA](https://cha.tbbrds.com/img/cha-1.6.img) or [Download From Archive](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
+- v1.4 [Download From CHA](https://cha.tbbrds.com/img/cha-1.4.img)
+- v1.5 [Download From CHA](https://cha.tbbrds.com/img/cha-1.5.img)
+- v1.6 [Download From CHA](https://cha.tbbrds.com/img/cha-1.6.img) or [Download From Archive](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
 
 Alternative Kernel version, "may" fix some sound issues.
-- 1.6 (Alternative Kernel) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
+- v1.6-alt (Alternative Kernel) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
 
-### Batocera
+### Official Batocera Distribution
 [Batocera](https://batocera.org) is an open source retro distribution.
 
-- 32 [Download From batocera.org](https://updates.batocera.org/cha/stable/last/batocera-cha-32-20210924.img.gz)
+- v32 [Download From batocera.org](https://updates.batocera.org/cha/stable/last/batocera-cha-32-20210924.img.gz)
+
+## Official Lakka Distribution
+[Lakka](http://www.lakka.tv) is the official open source retro distribution from libretro for Retroarch.
+
+- v3.5 [Download From lakka.tv](https://le-builds.lakka.tv/H3.arm/Lakka-H3.arm-3.5-capcom-home-arcade.img.gz)
 
 ## Other Software
-The next software can be downloaded and directly written to EMMC.
-
-### Lakka
-[Lakka](http://www.lakka.tv) is an open source retro distribution. OS images for the CHA are supported by  [CHOKO Group](https://github.com/ChokoGroup).
+The next are custom images that can also be directly written to EMMC but are not distributed by their original developers.
 
 - Dual Boot image including OEM OS 1.6 and Lakka v3.4 [Download From CHOKO Group GitHub](https://github.com/ChokoGroup/CHA-Lakka-Dual-Boot/releases/download/v4.3.1/CHA.v1.6.with.Choko.Hack.v12.and.Lakka.v3.4.img.7z)
+- Custom Batocera Setup by Lilo, only supports CPS1,2,3 and NeoGeo games [Capcom Home Arcade Batocera Setup](https://github.com/lilo-san/cha-batocera)
 
 # Special Acknowledgments
 - [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first beginner friendly guide to use it.
