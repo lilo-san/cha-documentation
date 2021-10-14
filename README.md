@@ -165,7 +165,7 @@ Alternative Kernel version, "may" fix some sound issues.
 ## Other Software
 The next are custom images that can also be directly written to EMMC but are not distributed by their original developers.
 
-- Dual Boot image including OEM OS 1.6 and Lakka v3.4 [Download From CHOKO Group GitHub](https://github.com/ChokoGroup/CHA-Lakka-Dual-Boot/releases/download/v4.3.1/CHA.v1.6.with.Choko.Hack.v12.and.Lakka.v3.4.img.7z)
+- Multi OS Boot images from CHOKO Group [Download From CHOKO Group GitHub](https://github.com/ChokoGroup/CHA-Multi-OS-Boot/releases/tag/v1.0z)
 - Custom Batocera Setup by Lilo-San, only supports CPS1,2,3 and NeoGeo games [Download From Lilo-San GitHub](https://github.com/lilo-san/cha-batocera)
 
 # Special Acknowledgments
