@@ -148,9 +148,8 @@ The OS that comes pre-installed on the Capcom Home Arcade.
 - v1.4 [Download From CHA](https://cha.tbbrds.com/img/cha-1.4.img)
 - v1.5 [Download From CHA](https://cha.tbbrds.com/img/cha-1.5.img)
 - v1.6 [Download From CHA](https://cha.tbbrds.com/img/cha-1.6.img) or [Download From Archive](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
-
-Alternative Kernel version, "may" fix some sound issues.
-- v1.6-alt (Alternative Kernel) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
+- v1.6-alt (Alternative Kernel, "may" fix some sound issues) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
+- v1.7 [Download From CHA](https://cha.tbbrds.com/img/cha-1.7.img) 
 
 ### Official Batocera Distribution
 [Batocera](https://batocera.org) is an open source retro distribution.
@@ -165,8 +164,8 @@ Alternative Kernel version, "may" fix some sound issues.
 ## Other Software
 The next are custom images that can also be directly written to EMMC but are not distributed by their original developers.
 
-- Multi OS Boot images from CHOKO Group [Download From CHOKO Group GitHub](https://github.com/ChokoGroup/CHA-Multi-OS-Boot)
-- Custom Batocera Setup by Lilo-San, only supports CPS1,2,3 and NeoGeo games [Download From Lilo-San GitHub](https://github.com/lilo-san/cha-batocera)
+- Multi OS Boot images from CHOKO Group combining OEM with Batocera and/or Lakka [Download From CHOKO Group GitHub](https://github.com/ChokoGroup/CHA-Multi-OS-Boot)
+- Custom Batocera image by Lilo-San, only supports CPS1,2,3 and NeoGeo games [Download From Lilo-San GitHub](https://github.com/lilo-san/cha-batocera)
 
 # Special Acknowledgments
 - [CHOKO Group](https://github.com/ChokoGroup). They where the first ones to open the CHA development opportunities to a wider audience and put together the package to enable FEL mode. They also wrote the first beginner friendly guide to use it.
