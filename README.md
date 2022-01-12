@@ -159,7 +159,7 @@ The OS that comes pre-installed on the Capcom Home Arcade.
 ### Official Lakka Distribution
 [Lakka](http://www.lakka.tv) is the official open source retro distribution from libretro for Retroarch.
 
-- v3.5 [Download From lakka.tv](https://le-builds.lakka.tv/H3.arm/Lakka-H3.arm-3.5-capcom-home-arcade.img.gz)
+- v3.6 [Download From lakka.tv](https://le-builds.lakka.tv/H3.arm/Lakka-H3.arm-3.6-capcom-home-arcade.img.gz)
 
 ## Other Software
 The next are custom images that can also be directly written to EMMC but are not distributed by their original developers.
