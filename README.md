@@ -150,6 +150,7 @@ The OS that comes pre-installed on the Capcom Home Arcade.
 - v1.6 [Download From CHA](https://cha.tbbrds.com/img/cha-1.6.img) or [Download From Archive](https://archive.org/download/capcom-home-arcade-oem-16.img/capcom-home-arcade-oem-16.img.gz)
 - v1.6-alt (Alternative Kernel, "may" fix some sound issues) [Download From CHA](https://cha.tbbrds.com/img/cha-1.6-alt.img)
 - v1.7 [Download From CHA](https://cha.tbbrds.com/img/cha-1.7.img) 
+- v1.71 [Download From CHA](https://cha.tbbrds.com/img/cha-1.71.img)
 
 ### Official Batocera Distribution
 [Batocera](https://batocera.org) is an open source retro distribution.
